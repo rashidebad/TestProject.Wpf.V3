@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Platform>x64</Platform>
+    <Platforms>x64</Platforms>
+    <LangVersion>10.0</LangVersion>
+    <TargetFrameworks>net6.0-windows</TargetFrameworks>
+    <OutputPath>.\bin\</OutputPath>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
+    <AppendTargetFrameworkToOutputPath>true</AppendTargetFrameworkToOutputPath>
+    <NoWarn>CA1303</NoWarn>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <Deterministic>true</Deterministic>
+    <IsPackable>false</IsPackable>
+    <UseWpf>true</UseWpf>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectGuid>{F25F2D55-8756-47D2-9A5E-154084EB41E7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TestProject.Wpf.Demo</RootNamespace>
+    <AssemblyName>TestProject.Wpf.Demo</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttribute Include="System.Resources.NeutralResourcesLanguage">
+      <_Parameter1>en</_Parameter1>
+    </AssemblyAttribute>
+  </ItemGroup>
+</Project>

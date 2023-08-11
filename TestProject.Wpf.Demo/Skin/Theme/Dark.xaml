@@ -1,0 +1,21 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib"
+    xmlns:wpf="clr-namespace:TestProject.Wpf">
+    <system:Double x:Key="Hue">204</system:Double>
+    <system:Double x:Key="Saturation">4</system:Double>
+    <wpf:HslColor x:Key="PrimaryBackground1Color" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="15" A="100"/>
+    <wpf:HslColor x:Key="PrimaryBackground1DColor" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="18" A="100"/>
+    <wpf:HslColor x:Key="PrimaryBackground2Color" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="20" A="100"/>
+    <wpf:HslColor x:Key="PrimaryBackground3Color" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="25" A="100"/>
+    <wpf:HslColor x:Key="PrimaryBackground4Color" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="30" A="100"/>
+    <wpf:HslColor x:Key="PrimaryBackgroundRColor" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="85" A="100"/>
+    <wpf:HslColor x:Key="SecondaryColor" H="{StaticResource Hue}" S="87" L="37" A="100"/>
+    <wpf:HslColor x:Key="SecondaryLightColor" H="{StaticResource Hue}" S="87" L="47" A="100"/>
+    <wpf:HslColor x:Key="SecondaryDarkColor" H="{StaticResource Hue}" S="87" L="27" A="100"/>
+    <wpf:HslColor x:Key="PrimaryForeground1Color" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="100" A="80"/>
+    <wpf:HslColor x:Key="PrimaryForeground2Color" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="100" A="30"/>
+    <wpf:HslColor x:Key="PrimaryForeground3Color" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="100" A="10"/>
+    <wpf:HslColor x:Key="PrimaryForegroundRColor" H="{StaticResource Hue}" S="{StaticResource Saturation}" L="0" A="90"/>
+</ResourceDictionary>

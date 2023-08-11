@@ -1,0 +1,204 @@
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.exe
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll.config
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.deps.json
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.runtimeconfig.json
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.pdb
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.xml
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.dll
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.pdb
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.xml
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.AssemblyReference.cache
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.baml
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.baml
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.g.cs
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.g.cs
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.cache
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.lref
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.baml
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.g.resources
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfoInputs.cache
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfo.cs
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CoreCompileInputs.cache
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CopyComplete
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.dll
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\refint\TestProject.Wpf.Demo.dll
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.xml
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.pdb
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.genruntimeconfig.cache
+D:\TecFolk\Projects\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\ref\TestProject.Wpf.Demo.dll
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.exe
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll.config
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.deps.json
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.runtimeconfig.json
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.dll
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.pdb
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.xml
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.AssemblyReference.cache
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.baml
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.baml
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.g.cs
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.g.cs
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.cache
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.lref
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.g.resources
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfoInputs.cache
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfo.cs
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CopyComplete
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\refint\TestProject.Wpf.Demo.dll
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.genruntimeconfig.cache
+C:\Users\Tecfolk\Desktop\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\ref\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.exe
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll.config
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.deps.json
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.runtimeconfig.json
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.AssemblyReference.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.lref
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.g.resources
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfoInputs.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfo.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CoreCompileInputs.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CopyComplete
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\refint\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.genruntimeconfig.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\ref\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.exe
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll.config
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.deps.json
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.runtimeconfig.json
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.AssemblyReference.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.lref
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Tabs\DragDrop\DragDropTabView.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.g.resources
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfoInputs.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfo.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CoreCompileInputs.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CopyComplete
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\refint\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.genruntimeconfig.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\ref\TestProject.Wpf.Demo.dll
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.exe
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll.config
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.deps.json
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.runtimeconfig.json
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.AssemblyReference.cache
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.g.cs
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.cache
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.g.resources
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfoInputs.cache
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfo.cs
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\refint\TestProject.Wpf.Demo.dll
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.genruntimeconfig.cache
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\ref\TestProject.Wpf.Demo.dll
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Button.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Colors.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\Bars.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\CaretDown.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\CaretRight.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\Index.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Index.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Sizes.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Text.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.lref
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Layout.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Theme\Dark.baml
+C:\Users\Julien\Downloads\TestProject.Wpf.V2.0\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Tree.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.exe
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll.config
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.deps.json
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.runtimeconfig.json
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\bin\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.AssemblyReference.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Button.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Colors.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\Bars.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\CaretDown.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\CaretRight.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Icon\Index.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Index.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Sizes.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Text.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\MainWindow.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\App.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo_MarkupCompile.lref
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Layout.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Theme\Dark.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\Skin\Tree.baml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.g.resources
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfoInputs.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.AssemblyInfo.cs
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.csproj.CoreCompileInputs.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\refint\TestProject.Wpf.Demo.dll
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.xml
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.pdb
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\TestProject.Wpf.Demo.genruntimeconfig.cache
+C:\Tecfolk\HyperTherm\Tasks\July 2023\TestProject.Wpf.V3\TestProject.Wpf.Demo\obj\x64\Debug\net6.0-windows\ref\TestProject.Wpf.Demo.dll

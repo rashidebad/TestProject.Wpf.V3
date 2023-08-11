@@ -1,0 +1,430 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestProject.Wpf</name>
+    </assembly>
+    <members>
+        <member name="T:TestProject.Wpf.Converters.BooleanToHiddenVisibilityConverter">
+            <summary>
+                Represents the converter that converts a boolean to visibility.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.BooleanToHiddenVisibilityConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.BooleanToHiddenVisibilityConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="T:TestProject.Wpf.Converters.CompositeConverter">
+            <summary>
+                Represents the converter that chain multiple converters.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.CompositeConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.CompositeConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="T:TestProject.Wpf.Converters.InverseBooleanConverter">
+            <summary>
+                Represents the converter that converts a boolean to its inverse.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.InverseBooleanConverter.Convert(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.InverseBooleanConverter.ConvertBack(System.Object,System.Type,System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="T:TestProject.Wpf.Converters.ScrollOffsetConverter">
+            <summary>
+                Converts a scroll offset in a margin.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.ScrollOffsetConverter.Convert(System.Object[],System.Type,System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="M:TestProject.Wpf.Converters.ScrollOffsetConverter.ConvertBack(System.Object,System.Type[],System.Object,System.Globalization.CultureInfo)">
+            <inheritdoc/>
+        </member>
+        <member name="T:TestProject.Wpf.FakeObservableList`1">
+            <summary>
+                Provides a class equivalent to List with a fake INotifyCollectionChanged implementation.
+            </summary>
+            <remarks>
+                To avoid memory leak in collection binding, the bound collection needs to implement INotifyCollectionChanged.
+                This class offers an alternative to the traditional ObservableCollection with better performance when the observability is not needed.
+            </remarks>
+            <typeparam name="T">
+                The type of elements in the list.
+            </typeparam>
+        </member>
+        <member name="M:TestProject.Wpf.FakeObservableList`1.#ctor">
+            <summary>
+                Initializes a new instance of the <see cref="T:TestProject.Wpf.FakeObservableList`1"/> class.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.FakeObservableList`1.#ctor(System.Int32)">
+            <summary>
+                Initializes a new instance of the <see cref="T:TestProject.Wpf.FakeObservableList`1"/> class.
+            </summary>
+            <param name="capacity">
+                The number of elements that the new list can initially store.
+            </param>
+        </member>
+        <member name="M:TestProject.Wpf.FakeObservableList`1.#ctor(System.Collections.Generic.IEnumerable{`0})">
+            <summary>
+                Initializes a new instance of the <see cref="T:TestProject.Wpf.FakeObservableList`1"/> class.
+            </summary>
+            <param name="collection">
+                The collection whose elements are copied to the new list.
+            </param>
+        </member>
+        <member name="E:TestProject.Wpf.FakeObservableList`1.CollectionChanged">
+            <summary>
+                Occurs when the collection changes, either by adding or removing an item.
+            </summary>
+            <remarks>
+                See <seealso cref="T:System.Collections.Specialized.INotifyCollectionChanged"/>.
+            </remarks>
+        </member>
+        <member name="M:TestProject.Wpf.FakeObservableList`1.OnCollectionChanged">
+            <summary>
+                Indicates that the collection has changed.
+            </summary>
+        </member>
+        <member name="T:TestProject.Wpf.HslColor">
+            <summary>
+                This class is used to describe colors in HSLA (Hue, Saturation, Lightness, Alpha) form.
+                It also handles conversions to standard RGB values.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.HslColor.H">
+            <summary>
+                Gets or sets hue (0.0 - 360.0).
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.HslColor.S">
+            <summary>
+                Gets or sets saturation (0.0 - 100.0).
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.HslColor.L">
+            <summary>
+               Gets or sets lightness (0.0 - 100.0).
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.HslColor.A">
+            <summary>
+                Gets or sets alpha (0.0 - 100.0).
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.HslColor.ProvideValue(System.IServiceProvider)">
+            <inheritdoc/>
+        </member>
+        <member name="T:TestProject.Wpf.ViewModels.DragDropTreeViewModel">
+            <summary>
+                Defines the ViewModel for Tree. Can be used for List too.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.DragDropTreeViewModel.IsDropBorderVisible">
+            <summary>
+                Gets or sets a value indicating whether the drop border is visible.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.DragDropTreeViewModel.IsDropMarkerVisible">
+            <summary>
+                Gets or sets a value indicating whether the drop marker is visible.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.DragDropTreeViewModel.DropMarkerMargin">
+            <summary>
+                Gets or sets the drop marker margin.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.DragDropTreeViewModel.PreviewDropCommand">
+            <summary>
+                Gets or sets the simple list PreviewDrop command.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.DragDropTreeViewModel.DropCommand">
+            <summary>
+                Gets or sets the simple list Drop command.
+            </summary>
+        </member>
+        <member name="T:TestProject.Wpf.ViewModels.MenuItemViewModel">
+            <summary>
+                Defines the ViewModel for menu items.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.MenuItemViewModel.#ctor(System.Boolean,System.Boolean)">
+            <summary>
+                Initializes a new instance of the <see cref="T:TestProject.Wpf.ViewModels.MenuItemViewModel"/> class.
+            </summary>
+            <param name="isSeparator">
+                The value indicating whether this menu item is a separator.
+            </param>
+            <param name="isCheckable">
+                The value indicating whether this menu item is checkable.
+            </param>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.MenuItemViewModel.Children">
+            <summary>
+                Gets the children items of this item.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.MenuItemViewModel.IsEnabled">
+            <summary>
+                Gets or sets a value indicating whether this item is enabled.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.MenuItemViewModel.Header">
+            <summary>
+                Gets or sets the header of this item.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.MenuItemViewModel.Command">
+            <summary>
+                Gets or sets the command of this item.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.MenuItemViewModel.IsCheckable">
+            <summary>
+                Gets a value indicating whether this item is checkable.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.MenuItemViewModel.IsChecked">
+            <summary>
+                Gets or sets a value indicating whether this item is checked.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.MenuItemViewModel.IsSeparator">
+            <summary>
+                Gets a value indicating whether this item is a separator.
+            </summary>
+        </member>
+        <member name="T:TestProject.Wpf.ViewModels.TreeItemViewModel">
+            <summary>
+                Defines the ViewModel for the items of a Tree.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.TreeItemViewModel.#ctor(TestProject.Wpf.ViewModels.TreeViewModel)">
+            <summary>
+                Initializes a new instance of the <see cref="T:TestProject.Wpf.ViewModels.TreeItemViewModel"/> class.
+            </summary>
+            <param name="treeViewModel">
+                The <see cref="T:TestProject.Wpf.ViewModels.TreeViewModel"/>.
+            </param>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.Children">
+            <summary>
+               Gets or sets the children of the tree item.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.TreeElements">
+            <summary>
+                Gets or sets the list indicating whether the tree elements have siblings.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.IsHighlighted">
+            <summary>
+                Gets or sets a value indicating whether the item is highlighted.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.IsSelected">
+            <summary>
+                Gets a value indicating whether the item is selected.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.IsPartiallySelected">
+            <summary>
+                Gets a value indicating whether the item is partially selected, which means that at least one of its descendants is selected.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.IsExpanded">
+            <summary>
+                Gets or sets a value indicating whether the tree item is expanded.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.HasChildren">
+            <summary>
+               Gets a value indicating whether the item has at least one child.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.Parent">
+            <summary>
+                Gets the parent of this item.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeItemViewModel.HasNextSibling">
+            <summary>
+                Gets a value indicating whether this item has a next sibling.
+            </summary>
+        </member>
+        <member name="T:TestProject.Wpf.ViewModels.TreeViewModel">
+            <summary>
+                Defines the ViewModel for Tree. Can be used for List too.
+            </summary>
+        </member>
+        <member name="F:TestProject.Wpf.ViewModels.TreeViewModel.SetSelectedItemsMethod">
+             <summary>
+                 This is the non-public SetSelectedItems() method from <see cref="T:System.Windows.Controls.ListBox"/>.
+             </summary>
+             <remarks>
+                 A protected method of the Selector class is used for performance reasons.
+            
+                 Important!!!
+                 ------------
+                 This is only intended to be used with <see cref="T:System.Windows.Controls.ListBox"/>es that have a
+                 <see cref="P:System.Windows.Controls.ListBox.SelectionMode"/> that is not <see cref="F:System.Windows.Controls.SelectionMode.Single"/>;
+                 it does not properly support those single selection cases and can result in a crash.
+             </remarks>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeViewModel.SelectCommand">
+            <summary>
+                Gets or sets the select command.
+            </summary>
+            <remarks>
+                The select command is executed whether the selection changed through the View (by clicking on the UI) or through the ViewModel (by calling the <see cref="M:TestProject.Wpf.ViewModels.TreeViewModel.Select(System.Collections.Generic.IEnumerable{TestProject.Wpf.ViewModels.TreeItemViewModel},System.Collections.Generic.IEnumerable{TestProject.Wpf.ViewModels.TreeItemViewModel})"/> method).
+                A boolean is passed to the command as a parameter to indicate whether the selection changed through the View (<see langword="true"/>) or through the ViewModel (<see langword="false"/>).
+            </remarks>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeViewModel.AllItems">
+            <summary>
+                Gets the list of all tree items.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeViewModel.VisibleItems">
+            <summary>
+                Gets the list of all visible items.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeViewModel.SelectedItems">
+            <summary>
+                Gets the list of selected items.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeViewModel.FirstLevel">
+            <summary>
+                Gets or sets the first level of the tree.
+            </summary>
+        </member>
+        <member name="P:TestProject.Wpf.ViewModels.TreeViewModel.ContextMenuCallback">
+            <summary>
+                Gets or sets the callback to get the context menu items on demand.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.TreeViewModel.Select(System.Collections.Generic.IEnumerable{TestProject.Wpf.ViewModels.TreeItemViewModel},System.Collections.Generic.IEnumerable{TestProject.Wpf.ViewModels.TreeItemViewModel})">
+            <summary>
+                Selects the items in the view.
+            </summary>
+            <remarks>
+                This method executes the <see cref="P:TestProject.Wpf.ViewModels.TreeViewModel.SelectCommand"/>.
+            </remarks>
+            <param name="selection">
+                The items to be selected.
+            </param>
+            <param name="partialSelection">
+                The items to be partially selected.
+            </param>
+            <exception cref="T:System.ArgumentNullException">
+                <paramref name="selection"/> is <see langword="null"/>.
+            </exception>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.TreeViewModel.Unselect">
+            <summary>
+                Clears the selection.
+            </summary>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.TreeViewModel.UpdateTree">
+            <summary>
+                Updates the tree. Must be called when the hierarchy change.
+            </summary>
+            <remarks>
+                It triggers the Select command.
+            </remarks>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.TreeViewModel.BringIntoView(TestProject.Wpf.ViewModels.TreeItemViewModel)">
+            <summary>
+                Attempts to bring the provided <paramref name="treeItemViewModel"/> into view.
+            </summary>
+            <param name="treeItemViewModel">
+                The item that should be brought into view.
+            </param>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.TreeViewModel.RefreshTree">
+            <summary>
+                Refreshes the tree. Used when an item is toggled.
+            </summary>
+        </member>
+        <member name="T:TestProject.Wpf.ViewModels.ViewModel">
+            <summary>
+                Base class for view models.
+            </summary>
+        </member>
+        <member name="E:TestProject.Wpf.ViewModels.ViewModel.PropertyChanged">
+            <inheritdoc/>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.ViewModel.SetProperty``1(``0@,``0,System.String,System.String[])">
+            <summary>
+                Sets the property and calls <see cref="M:TestProject.Wpf.ViewModels.ViewModel.OnPropertyChanged(System.String)"/> method.
+            </summary>
+            <param name="storage">
+                Reference to a property with both getter and setter.
+            </param>
+            <param name="value">
+                Desired value for the property.
+            </param>
+            <param name="callerPropertyName">
+                Name of the property used to notify listeners. This
+                value is optional and can be provided automatically when invoked from compilers that
+                support CallerMemberName.
+            </param>
+            <param name="propertyNames">
+                Optional additional property names to notify listeners.
+            </param>
+            <returns>
+                True if the value was changed, false if the existing value matched the desired value.
+            </returns>
+        </member>
+        <member name="M:TestProject.Wpf.ViewModels.ViewModel.OnPropertyChanged(System.String)">
+            <summary>
+                This handler is called to indicate that one of the properties in the ViewModel has changed.
+            </summary>
+            <param name="propertyName">
+                The name of the property which was updated; if no value is provided, the name of property will be extracted using the runtime.
+            </param>
+        </member>
+        <member name="T:XamlGeneratedNamespace.GeneratedInternalTypeHelper">
+            <summary>
+            GeneratedInternalTypeHelper
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateInstance(System.Type,System.Globalization.CultureInfo)">
+            <summary>
+            CreateInstance
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.GetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            GetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.SetPropertyValue(System.Reflection.PropertyInfo,System.Object,System.Object,System.Globalization.CultureInfo)">
+            <summary>
+            SetPropertyValue
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.CreateDelegate(System.Type,System.Object,System.String)">
+            <summary>
+            CreateDelegate
+            </summary>
+        </member>
+        <member name="M:XamlGeneratedNamespace.GeneratedInternalTypeHelper.AddEventHandler(System.Reflection.EventInfo,System.Object,System.Delegate)">
+            <summary>
+            AddEventHandler
+            </summary>
+        </member>
+    </members>
+</doc>

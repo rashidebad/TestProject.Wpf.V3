@@ -1,0 +1,61 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="Layout.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+    <Style x:Key="TreeToggleButtonStyle" TargetType="{x:Type ToggleButton}">
+        <Setter Property="Foreground" Value="{DynamicResource ButtonForegroundBrush}"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ToggleButton}">
+                    <Border
+                        Background="Transparent">
+                        <Grid>
+                            <ContentControl
+                                x:Name="CollapsedArrow"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                Style="{DynamicResource IconStyle}"
+                                Margin="4,0,0,0"
+                                Template="{DynamicResource CaretRightIconTemplate}"/>
+                            <ContentControl
+                                x:Name="ExpandedArrow"
+                                HorizontalAlignment="Center"
+                                VerticalAlignment="Center"
+                                Visibility="Collapsed"
+                                Style="{DynamicResource IconStyle}"
+                                Template="{DynamicResource CaretDownIconTemplate}"/>
+                        </Grid>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsChecked" Value="True">
+                            <Setter TargetName="CollapsedArrow" Property="Visibility" Value="Collapsed"/>
+                            <Setter TargetName="ExpandedArrow" Property="Visibility" Value="Visible"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="ListDraggableThumbStyle" TargetType="{x:Type Thumb}">
+        <Setter Property="Width" Value="{DynamicResource SmallButtonHeight}"/>
+        <Setter Property="Background" Value="{DynamicResource ListItemBackgroundHighlightedBrush}"/>
+        <Setter Property="Foreground" Value="{DynamicResource ButtonForegroundBrush}"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type Thumb}">
+                    <Border Background="{TemplateBinding Background}">
+                        <ContentControl Style="{DynamicResource IconStyle}" Template="{DynamicResource BarsIconTemplate}"/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="IconStyle" TargetType="{x:Type ContentControl}">
+        <Setter Property="IsTabStop" Value="False"/>
+        <Setter Property="Width" Value="{DynamicResource ButtonIconSize}"/>
+        <Setter Property="Height" Value="{DynamicResource ButtonIconSize}"/>
+        <Setter Property="SnapsToDevicePixels" Value="False"/>
+    </Style>
+</ResourceDictionary>

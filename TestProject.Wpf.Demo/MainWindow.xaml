@@ -1,0 +1,45 @@
+﻿<Window
+    x:Class="TestProject.Wpf.Demo.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Test Project"
+    WindowState="Maximized"
+    Width="1200"
+    Height="700">
+    <Grid>
+        <StackPanel
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center">
+            <ListBox
+                DataContext="{Binding SimpleTreeViewModel, Mode=OneTime}"
+                Style="{DynamicResource TreeStyle}"
+                Width="250"
+                Height="500">
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <StackPanel Orientation="Horizontal">
+                                <ContentControl
+                                Style="{DynamicResource TreeItemIdentStyle}"/>
+                                <Label
+                                Style="{DynamicResource LabelStyle}"
+                                Background="Transparent"
+                                Content="{Binding Caption, Mode=OneWay}"/>
+                            </StackPanel>
+                            <StackPanel
+                            Style="{DynamicResource AutoShowStyle}">
+                                <Border 
+                                BorderBrush="Gray"
+                                Background="LightGray"
+                                BorderThickness="1">
+                                    <Thumb
+                                    Style="{StaticResource ListDraggableThumbStyle}"/>
+                                </Border>
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </StackPanel>
+    </Grid>
+</Window>

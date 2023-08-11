@@ -1,0 +1,121 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- Opacity -->
+    <system:Double x:Key="DisabledOpacity">0.5</system:Double>
+
+    <!-- Theme -->
+    <SolidColorBrush x:Key="PrimaryBackground1Brush" Color="{DynamicResource PrimaryBackground1Color}"/>
+    <SolidColorBrush x:Key="PrimaryBackground1DBrush" Color="{DynamicResource PrimaryBackground1DColor}"/>
+    <SolidColorBrush x:Key="PrimaryBackground2Brush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="PrimaryBackground3Brush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="PrimaryBackground4Brush" Color="{DynamicResource PrimaryBackground4Color}"/>
+    <SolidColorBrush x:Key="PrimaryBackgroundRBrush" Color="{DynamicResource PrimaryBackgroundRColor}"/>
+    <SolidColorBrush x:Key="SecondaryBrush" Color="{DynamicResource SecondaryColor}"/>
+    <SolidColorBrush x:Key="SecondaryLightBrush" Color="{DynamicResource SecondaryLightColor}"/>
+    <SolidColorBrush x:Key="SecondaryDarkBrush" Color="{DynamicResource SecondaryDarkColor}"/>
+    <SolidColorBrush x:Key="PrimaryForeground1Brush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="PrimaryForeground2Brush" Color="{DynamicResource PrimaryForeground2Color}"/>
+    <SolidColorBrush x:Key="PrimaryForeground3Brush" Color="{DynamicResource PrimaryForeground3Color}"/>
+    <SolidColorBrush x:Key="PrimaryForegroundRBrush" Color="{DynamicResource PrimaryForegroundRColor}"/>
+
+    <!-- Label -->
+    <SolidColorBrush x:Key="LabelBackgroundBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="LabelForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="LabelForegroundDisabledBrush" Color="{DynamicResource PrimaryForeground3Color}"/>
+    <SolidColorBrush x:Key="HeaderForegroundBrush" Color="{DynamicResource PrimaryForeground2Color}"/>
+
+    <!-- Button -->
+    <SolidColorBrush x:Key="ButtonBackgroundBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="ButtonBackgroundHighlightedBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="ButtonBackgroundPressedBrush" Color="{DynamicResource SecondaryColor}"/>
+    <SolidColorBrush x:Key="ButtonBackgroundHighlightedHighlightedBrush" Color="{DynamicResource PrimaryBackground4Color}"/>
+    <SolidColorBrush x:Key="ButtonBackgroundHighlightedPressedBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="ButtonBackgroundSelectedHighlightedBrush" Color="{DynamicResource SecondaryLightColor}"/>
+    <SolidColorBrush x:Key="ButtonBackgroundSelectedPressedBrush" Color="{DynamicResource SecondaryDarkColor}"/>
+    <SolidColorBrush x:Key="ButtonForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="ButtonForegroundDisabledBrush" Color="{DynamicResource PrimaryForeground3Color}"/>
+    <SolidColorBrush x:Key="ButtonBorderBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+
+    <!-- Menu -->
+    <SolidColorBrush x:Key="MenuBackgroundBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="MenuBackgroundHighlightedBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="MenuForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="MenuForegroundDisabledBrush" Color="{DynamicResource PrimaryForeground3Color}"/>
+    <SolidColorBrush x:Key="MenuBorderBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="MenuShortcutBrush" Color="{DynamicResource PrimaryForeground2Color}"/>
+    <SolidColorBrush x:Key="MenuCaretBrush" Color="{DynamicResource PrimaryBackground4Color}"/>
+
+    <!-- CheckBox -->
+    <SolidColorBrush x:Key="CheckBoxBackgroundBrush" Color="{DynamicResource PrimaryBackground1Color}"/>
+    <SolidColorBrush x:Key="CheckBoxForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="CheckBoxBackgroundDisabledBrush" Color="{DynamicResource PrimaryBackground1DColor}"/>
+    <SolidColorBrush x:Key="CheckBoxForegroundDisabledBrush" Color="{DynamicResource PrimaryForeground3Color}"/>
+
+    <!-- TextBox -->
+    <SolidColorBrush x:Key="TextBoxBackgroundBrush" Color="{DynamicResource PrimaryBackground1Color}"/>
+    <SolidColorBrush x:Key="TextBoxForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="TextBoxBackgroundDisabledBrush" Color="{DynamicResource PrimaryBackground1DColor}"/>
+    <SolidColorBrush x:Key="TextBoxForegroundDisabledBrush" Color="{DynamicResource PrimaryForeground3Color}"/>
+    <SolidColorBrush x:Key="TextBoxErrorBrush" Color="Firebrick"/>
+    <SolidColorBrush x:Key="TextBoxSelectionBrush" Color="{DynamicResource SecondaryColor}"/>
+
+    <!-- ComboBox -->
+    <SolidColorBrush x:Key="ComboBoxBackgroundBrush" Color="{DynamicResource PrimaryBackground1Color}"/>
+    <SolidColorBrush x:Key="ComboBoxBackgroundHighlightedBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="ComboBoxBackgroundSelectedBrush" Color="{DynamicResource SecondaryColor}"/>
+    <SolidColorBrush x:Key="ComboBoxForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="ComboBoxBackgroundDisabledBrush" Color="{DynamicResource PrimaryBackground1DColor}"/>
+    <SolidColorBrush x:Key="ComboBoxForegroundDisabledBrush" Color="{DynamicResource PrimaryForeground3Color}"/>
+    <SolidColorBrush x:Key="ComboBoxBorderBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+
+    <!-- Slider -->
+    <SolidColorBrush x:Key="SliderForegroundBrush" Color="{DynamicResource PrimaryBackgroundRColor}"/>
+    <SolidColorBrush x:Key="SliderForegroundDisabledBrush" Color="{DynamicResource PrimaryBackground1DColor}"/>
+
+    <!-- Tab -->
+    <SolidColorBrush x:Key="TabBackgroundBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="TabForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="TabItemBackgroundBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="TabItemForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="TabItemBackgroundHighlightedBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="TabItemForegroundHighlightedBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="TabItemBackgroundSelectedBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="TabItemForegroundSelectedBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="TabItemForegroundDisabledBrush" Color="{DynamicResource PrimaryForeground3Color}"/>
+
+    <!-- List -->
+    <SolidColorBrush x:Key="ListBackgroundBrush" Color="{DynamicResource PrimaryBackground1Color}"/>
+    <SolidColorBrush x:Key="ListItemBackgroundHighlightedBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="ListItemBackgroundSelectedBrush" Color="{DynamicResource SecondaryColor}"/>
+    <SolidColorBrush x:Key="ListItemBackgroundPartiallySelectedBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+
+    <!-- ScrollBar -->
+    <SolidColorBrush x:Key="ScrollBarBackgroundBrush" Color="{DynamicResource PrimaryBackground4Color}"/>
+    <SolidColorBrush x:Key="ScrollBarBackgroundHighlightedBrush" Color="{DynamicResource PrimaryBackground4Color}"/>
+    <SolidColorBrush x:Key="ScrollBarBackgroundDraggedBrush" Color="{DynamicResource PrimaryBackground4Color}"/>
+    
+    <!-- Splitter -->
+    <SolidColorBrush x:Key="SplitterBackgroundDraggedBrush" Color="{DynamicResource PrimaryBackground4Color}"/>
+
+    <!-- ToolTip -->
+    <SolidColorBrush x:Key="ToolTipBackgroundBrush" Color="{DynamicResource PrimaryBackgroundRColor}"/>
+    <SolidColorBrush x:Key="ToolTipForegroundBrush" Color="{DynamicResource PrimaryForegroundRColor}"/>
+
+    <!-- Notification -->
+    <SolidColorBrush x:Key="NotificationBackgroundBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="NotificationForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="NotificationBorderBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+
+    <!-- Window -->
+    <SolidColorBrush x:Key="WindowBackgroundBrush" Color="{DynamicResource PrimaryBackground2Color}"/>
+    <SolidColorBrush x:Key="WindowForegroundBrush" Color="{DynamicResource PrimaryForeground1Color}"/>
+    <SolidColorBrush x:Key="WindowBorderBrush" Color="{DynamicResource PrimaryBackground3Color}"/>
+    <SolidColorBrush x:Key="WindowTitleBrush" Color="{DynamicResource PrimaryForeground2Color}"/>
+
+    <!-- ColorPicker -->
+    <SolidColorBrush x:Key="ColorPickerBackgroundBrush" Color="{DynamicResource PrimaryBackground1Color}"/>
+
+</ResourceDictionary>

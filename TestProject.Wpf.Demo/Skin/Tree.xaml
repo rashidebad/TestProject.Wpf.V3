@@ -1,0 +1,114 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:converters="clr-namespace:TestProject.Wpf.Converters">
+    <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    <converters:BooleanToHiddenVisibilityConverter x:Key="BooleanToHiddenVisibilityConverter"/>
+    <converters:CompositeConverter x:Key="InverseBooleanToHiddenVisibilityConverter">
+        <converters:InverseBooleanConverter/>
+        <converters:BooleanToHiddenVisibilityConverter/>
+    </converters:CompositeConverter>
+    <Style x:Key="TreeStyle" TargetType="{x:Type ListBox}">
+        <Setter Property="Background" Value="{DynamicResource ListBackgroundBrush}"/>
+        <Setter Property="ItemContainerStyle" Value="{DynamicResource TreeItemStyle}"/>
+        <Setter Property="ItemsSource" Value="{Binding VisibleItems, Mode=OneWay}"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ListBox}">
+                    <Grid>
+                        <Border Background="{TemplateBinding Background}">
+                            <ScrollViewer>
+                                <ItemsPresenter/>
+                            </ScrollViewer>
+                        </Border>
+                    </Grid>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    <Style x:Key="TreeItemStyle" TargetType="{x:Type ListBoxItem}">
+        <Setter Property="Foreground" Value="{DynamicResource PrimaryForeground1Brush}"/>
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ListBoxItem}">
+                    <Border Background="{TemplateBinding Background}">
+                        <ContentPresenter/>
+                    </Border>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+        <Style.Triggers>
+            <Trigger Property="IsMouseOver" Value="True">
+                <Setter Property="Background" Value="{DynamicResource ListItemBackgroundHighlightedBrush}"/>
+            </Trigger>
+            <Trigger Property="IsSelected" Value="True">
+                <Setter Property="Background" Value="{DynamicResource ListItemBackgroundSelectedBrush}"/>
+            </Trigger>
+        </Style.Triggers>
+    </Style>
+    <Style x:Key="TreeItemIdentStyle" TargetType="{x:Type ContentControl}">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="{x:Type ContentControl}">
+                    <StackPanel Orientation="Horizontal">
+                        <ItemsControl ItemsSource="{Binding TreeElements, Mode=OneTime}">
+                            <ItemsControl.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <StackPanel Orientation="Horizontal"/>
+                                </ItemsPanelTemplate>
+                            </ItemsControl.ItemsPanel>
+                            <ItemsControl.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid Width="24">
+                                        <Border
+                                            BorderBrush="{DynamicResource PrimaryForeground3Brush}"
+                                            BorderThickness="2,0,0,0"
+                                            Margin="11,0,0,0"
+                                            VerticalAlignment="Stretch"
+                                            Visibility="{Binding Mode=OneTime, Converter={StaticResource BooleanToHiddenVisibilityConverter}}"/>
+                                    </Grid>
+                                </DataTemplate>
+                            </ItemsControl.ItemTemplate>
+                        </ItemsControl>
+                        <Grid Width="24">
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Border
+                                Grid.Row="0"
+                                BorderBrush="{DynamicResource PrimaryForeground3Brush}"
+                                BorderThickness="2,0,0,0"
+                                Margin="11,0,0,0"
+                                VerticalAlignment="Stretch"/>
+                            <Border
+                                Grid.Row="2"
+                                BorderBrush="{DynamicResource PrimaryForeground3Brush}"
+                                BorderThickness="2,0,0,0"
+                                Margin="11,0,0,0"
+                                VerticalAlignment="Stretch"
+                                Visibility="{Binding HasNextSibling, Mode=OneTime, Converter={StaticResource BooleanToHiddenVisibilityConverter}}"/>
+                            <Ellipse
+                                Grid.Row="1"
+                                x:Name="Ellipse"
+                                Width="6"
+                                Height="6"
+                                Fill="{DynamicResource PrimaryForeground1Brush}"
+                                Visibility="{Binding HasChildren, Mode=OneTime, Converter={StaticResource InverseBooleanToHiddenVisibilityConverter}}"/>
+                            <ToggleButton
+                                Grid.Row="1"
+                                x:Name="ToggleButton"
+                                Focusable="False"
+                                Width="24"
+                                ClickMode="Press"
+                                IsChecked="{Binding IsExpanded, Mode=TwoWay}"
+                                Visibility="{Binding HasChildren, Mode=OneTime, Converter={StaticResource BooleanToHiddenVisibilityConverter}}"
+                                Style="{DynamicResource TreeToggleButtonStyle}"/>
+                        </Grid>
+                    </StackPanel>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>
